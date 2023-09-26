@@ -1,0 +1,9 @@
+ultralytics
+flask
+waitress
+pillow
+matplotlib
+numpy
+opencv-python
+moviepy
+pandas
